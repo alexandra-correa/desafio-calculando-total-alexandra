@@ -56,8 +56,14 @@ calculando-total/
     └── notebook.png
 ```
 
+```
+## Demo del proyecto
+
+Puedes ver el proyecto en vivo aquí:  
+https://alexandra-correa.github.io/prueba-animaciones-css/
 ---
 
+```
 ## Vista previa
 
 ![Vista previa del proyecto](./img/notebook.png)
