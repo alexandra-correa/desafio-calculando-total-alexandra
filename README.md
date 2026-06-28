@@ -66,7 +66,8 @@ Puedes ver el proyecto aquí:
 ---
 ## Vista previa
 
-![Vista previa del proyecto](./img/notebook.png)
+![Vista previa del proyecto](.<img width="1109" height="795" alt="image" src="https://github.com/user-attachments/assets/8488b628-8fd0-404b-8454-4d1818d62975" />
+)
 
 ---
 
