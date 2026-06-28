@@ -1,0 +1,84 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+/* TARJETA */
+
+.card {
+    background-color: #7aa62f;
+    color: white;
+
+    width: 280px;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card h2 {
+    font-size: 20px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+/* CONTADOR */
+
+.contador {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contador button {
+    width: 30px;
+    height: 30px;
+
+    border: none;
+    border-radius: 5px;
+
+    background-color: orange;
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 18px;
+}
+
+.contador button:hover {
+    opacity: 0.8;
+}
+
+/* TOTAL */
+
+.total {
+    margin-top: 20px;
+    font-size: 24px;
+}
