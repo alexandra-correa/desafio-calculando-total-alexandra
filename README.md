@@ -59,9 +59,9 @@ calculando-total/
 ---
 ## Demo del proyecto
 
-Puedes ver el proyecto en vivo aquí:  
-https://alexandra-correa.github.io/prueba-animaciones-css/
----
+Puedes ver el proyecto aquí:  
+(https://alexandra-correa.github.io/desafio-calculando-total-alexandra/)
+
 
 ---
 ## Vista previa
